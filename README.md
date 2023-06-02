@@ -1,1 +1,2 @@
 # hol-12factor-sample-template
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fykiyoshima%2Fdeploy-to-azure%2Fmain%2Fdeploy-to-azure-functions.json%3Ftoken%3DGHSAT0AAAAAACDA4JFJHV6HPOUOLRXAUQ7OZDZKP4A)
